@@ -1,1 +1,6 @@
-sps_genai/
+.DS_Store
+__pycache__/
+.venv/
+sps_genai/app/finetuned_gpt2/
+sps_genai/app/finetuned_gpt2_rl/
+sps_genai/data/

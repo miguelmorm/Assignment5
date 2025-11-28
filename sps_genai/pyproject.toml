@@ -1,0 +1,16 @@
+[project]
+name = "sps-genai"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "accelerate>=0.26.0",
+    "datasets>=4.3.0",
+    "fastapi[standard]>=0.120.4",
+    "matplotlib>=3.10.7",
+    "torch>=2.9.0",
+    "torchvision>=0.24.0",
+    "transformers>=4.57.1",
+    "uvicorn>=0.38.0",
+]
